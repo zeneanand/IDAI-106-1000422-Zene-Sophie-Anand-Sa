@@ -60,7 +60,7 @@ The ideation process focused on bridging the gap between high-pressure office ta
 ### Interactive Design
 The prototype was built in Figma to simulate a high-fidelity user experience. It focuses on minimalist UI to reduce cognitive load for stressed employees.
 
-- **[Click here to view the Interactive Figma Prototype](https://www.figma.com/make/gFAW2HQqjoJtv5Uva4Koic/Wellness-App-Prototype?t=iTJwDiXt0GsAV78n-1)**
+- **[Click here to view the Interactive Figma Prototype](https://www.figma.com/make/gFAW2HQqjoJtv5Uva4Koic/Wellness-App-Prototype?fullscreen=1&t=OrmYmjWXNGxqrhOG-1)**
 
 ### Core Screens
 Screenshots of the following designs can be found in the `/Wireframes` folder:
