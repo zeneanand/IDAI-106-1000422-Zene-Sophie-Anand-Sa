@@ -56,6 +56,19 @@ The ideation process focused on bridging the gap between high-pressure office ta
 * **How it works:** A data-rich dashboard that visualizes stress trends, recovery scores, and session history over days, weeks, or months.
 * **Justification:** Provides the **data-backed proof** required by **Mr. Mehta** (Senior Director) and **Riya** (IT Pro) to validate that their "rest time" is actually improving their professional performance.
 
+## Stage 3: Prototype
+### Interactive Design
+The prototype was built in Figma to simulate a high-fidelity user experience. It focuses on minimalist UI to reduce cognitive load for stressed employees.
+
+- **[Click here to view the Interactive Figma Prototype](https://www.figma.com/make/gFAW2HQqjoJtv5Uva4Koic/Wellness-App-Prototype?t=iTJwDiXt0GsAV78n-1)**
+
+### Core Screens
+Screenshots of the following designs can be found in the `/Wireframes` folder:
+1. **Home/Dashboard:** Visualizing stress data.
+2. **MoodSync AI:** Predictive session suggestions.
+3. **Pod Control:** IoT-style environment sliders.
+4. **Breathe Screen:** Guided haptic meditation.
+
 ---
 
 ## 3. Alignment with AI CRS
